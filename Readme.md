@@ -6,7 +6,7 @@ This project is a **Java-based ATM Simulation System**, developed using the **Ne
 
 - Java (Swing GUI)
 - NetBeans IDE
-- MySQL (XAMPP or standalone server)
+- MySQL
 - JDBC for database connectivity
 
 ---
@@ -32,7 +32,7 @@ This project is a **Java-based ATM Simulation System**, developed using the **Ne
 https://github.com/Yusuf611/Bank-Management-System
 
 ### 🛠️ Database Setup
-Start MySQL Server (e.g., via XAMPP).
+Start MySQL Server.
 
 Open phpMyAdmin or MySQL client.
 

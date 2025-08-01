@@ -34,7 +34,7 @@ https://github.com/Yusuf611/Bank-Management-System
 ### 🛠️ Database Setup
 Start MySQL Server.
 
-Open phpMyAdmin or MySQL client.
+Open MySQL client.
 
 Create a new database named atm.
 
